@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "470542789.xfactor.sky.it",
+                "appIDs": [ "470542789.xfactor.sky.it", "773C3QALML.xfactor.sky.it" ]
                 "paths": ["/app"]
             }
         ]
