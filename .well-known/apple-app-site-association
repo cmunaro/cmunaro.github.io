@@ -1,17 +1,11 @@
 {
     "applinks": {
-        "apps" : [
-            ],
         "details": [
             {
-                "appID": "64346Y5J98.xfactor.sky.it",
+                "appIDs": ["64346Y5J98.xfactor.sky.it"],
                 "components": [{
                     "/": "/app"
-                }],
-                "paths" : [
-                      "NOT /_/*",
-                      "/*"
-                ]
+                }]
             }
         ]
     }
