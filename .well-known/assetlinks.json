@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.zodiakactive.xfactor",
-               "sha256_cert_fingerprints": ["AA:9B:12:68:38:10:8D:E6:9E:EE:BD:8E:6A:07:A4:73:84:00:AE:3A:1C:CB:38:B3:90:63:FB:B6:89:F8:30:48"] }
+               "sha256_cert_fingerprints": ["B4:00:96:1F:05:44:DA:E0:DC:3F:72:91:36:2B:BF:F9:21:0F:8C:94:CB:43:2E:BC:E4:81:5A:AB:96:B8:02:D9"] }
 }]
