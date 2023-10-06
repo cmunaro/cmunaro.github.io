@@ -6,12 +6,6 @@
                 "components": [{
                     "/": "/app"
                 }]
-            },
-            {
-                "appIDs": ["773C3QALML.xfactor.sky.it"],
-                "components": [{
-                    "/": "/dev"
-                }]
             }
         ]
     }
